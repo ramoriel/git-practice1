@@ -1,0 +1,18 @@
+body{
+	color:#333;
+
+}
+.post{
+	margin-bottom:1em;
+	/*mblem*/
+	padding: 1em;
+    /*plem*/
+	boder:1px soild #000;
+    /**bd+*/
+	border-radius: 1em;
+	/*bdrslem*/ 
+}
+.fielt{
+    color: #eee;
+    background-color: #333;
+}
